@@ -1,0 +1,2 @@
+robot_control
+-DCATKIN_DEVEL_PREFIX=/home/azaan/ws/devel -DCMAKE_INSTALL_PREFIX=/home/azaan/ws/install -G Unix Makefiles
